@@ -1,0 +1,3 @@
+name = "khusus"  # Ganti dengan nama yang Anda inginkan untuk worker Anda
+main = "worker.js"        # Ganti dengan nama file JavaScript worker Anda (misalnya worker.js)
+compatibility_date = "2024-05-18" # Anda bisa gunakan tanggal saat ini atau yang terbaru direkomendasikan oleh Wrangler
