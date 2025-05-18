@@ -1,4 +1,4 @@
-// <!DOCTYPE html> // Ini adalah komentar yang terkadang ditambahkan oleh beberapa editor, bisa dihapus.
+// <!DOCTYPE html> // Ini adalah komentar yang terkadang ditambahkan oleh beberapa editorr, bisa dihapus.
 // export default {
   /**
    * @param {import("@cloudflare/workers-types").Request} request
